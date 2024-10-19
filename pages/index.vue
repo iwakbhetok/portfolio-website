@@ -50,7 +50,9 @@ function handleImagePopup(index) {
       <div id="smooth-content">
         <main class="main-bg o-hidden">
           <HomeHeroArea />
+          <!--
           <HomePortfolioArea :handleImagePopup="handleImagePopup" :portfolio_data="portfolio_data"  /> 
+          -->
           <HomeBrandArea />
           <HomeCtaArea /> 
           <Footer />

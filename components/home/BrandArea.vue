@@ -51,6 +51,13 @@ onMounted(() => {
                 <img src="~/assets/images/client-logos/partner4.png" alt="" />
                 <img src="~/assets/images/client-logos/partner5.png" alt="" />
                 <img src="~/assets/images/client-logos/partner6.png" alt="" />
+                <img src="~/assets/images/client-logos/partner7.png" alt="" />
+                <img src="~/assets/images/client-logos/partner8.png" alt="" />
+                <img src="~/assets/images/client-logos/partner9.png" alt="" />
+                <img src="~/assets/images/client-logos/partner10.png" alt="" />
+                <img src="~/assets/images/client-logos/partner11.png" alt="" />
+                <img src="~/assets/images/client-logos/partner12.png" alt="" />
+                <img src="~/assets/images/client-logos/partner13.png" alt="" />
               </div>
             </div>
           </div>

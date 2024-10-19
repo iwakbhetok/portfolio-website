@@ -97,8 +97,9 @@ function handleImagePopup(index) {
       <div id="smooth-content">
         <main class="main-bg o-hidden">
           <ProjectsBreadcrumb />
-          <!-- <HomePortfolioArea /> -->
+          <!-- 
           <HomePortfolioArea :handleImagePopup="handleImagePopup" :portfolio_data="portfolio_data"  /> 
+          -->
           <HomeCtaArea />
           <Footer />
         </main>
