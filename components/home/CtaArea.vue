@@ -27,12 +27,8 @@
 </template>
  
 <script setup>
-import { useGtag } from 'vue-gtag-next'
-
-const { event } = useGtag()
-
 function trackEvent() {
-  event('button_click', {
+  window.gtag('event', 'button_click', {
     event_category: 'interaction',
     event_label: 'Lets Talk',
     value: 1,

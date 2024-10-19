@@ -39,15 +39,12 @@
 </template>
 
 <script setup>
-import { useGtag } from 'vue-gtag-next'
-
-const { event } = useGtag()
-
 function trackEvent() {
-  event('button_click', {
+  window.gtag('event', 'button_click', {
     event_category: 'interaction',
     event_label: 'Download CV',
     value: 1,
   })
 }
+
 </script>
