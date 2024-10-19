@@ -57,7 +57,6 @@ onMounted(() => {
                 <img src="~/assets/images/client-logos/partner10.png" alt="" />
                 <img src="~/assets/images/client-logos/partner11.png" alt="" />
                 <img src="~/assets/images/client-logos/partner12.png" alt="" />
-                <img src="~/assets/images/client-logos/partner13.png" alt="" />
               </div>
             </div>
           </div>
