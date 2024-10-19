@@ -5,7 +5,7 @@
 import CountUp from 'vue-countup-v3'
 
 const counter_data = [
-  { id: 1, symble: "plus", count: 8, title: "Years Of Experience" },
+  { id: 1, symble: "plus", count: 10, title: "Years Of Experience" },
   { id: 2, symble: "plus", count: 20, title: "Complete Projects" },
   { id: 3, symble: "plus", count: 15, title: "Client Satisfactions" },
   { id: 4, symble: "plus", count: 99, title: "Cup of coffee" },
