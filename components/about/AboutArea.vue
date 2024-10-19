@@ -7,7 +7,7 @@
           <!-- START ABOUT IMAGE DESIGN AREA -->
           <div class="col-lg-5">
             <div class="about-image-part wow fadeInUp delay-0-3s">
-              <img src="~/assets/images/about/me-abdul.jpg" alt="About Me" />
+              <img src="~/assets/images/about/me-abdul-2.jpg" alt="About Me" />
             </div>
           </div>
           <!-- / END ABOUT IMAGE DESIGN AREA -->

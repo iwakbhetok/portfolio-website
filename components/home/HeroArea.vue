@@ -5,7 +5,7 @@
       <div class="row align-items-center">
         <div class="col-lg-4">
           <div class="glitch">
-            <img src="/assets/images/about/me-abdul.jpg" alt="About Me" />
+            <img src="/assets/images/about/me-abdul-2.jpg" alt="About Me" />
             <div class="glitch__layers">
               <div class="glitch__layer"></div>
               <div class="glitch__layer"></div>
