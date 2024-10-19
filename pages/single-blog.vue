@@ -9,7 +9,7 @@ import Footer from "~/layouts/Footer.vue";
 import Header from "~/layouts/Header.vue";
 
 useHead({
-  title: "Single Blog Wize - Creative Personal Portfolio Nuxt js Template",
+  title: "Single Blog Abdul Gofur | Web Development Manager & Software Engineer",
 });
 
 import { gsap } from 'gsap';

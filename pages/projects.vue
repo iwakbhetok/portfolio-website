@@ -7,7 +7,7 @@ import Footer from "~/layouts/Footer.vue";
 import Header from "~/layouts/Header.vue";
 
 useHead({
-  title: "Projects Wize - Creative Personal Portfolio Nuxt js Template",
+  title: "Projects Abdul Gofur | Web Development Manager & Software Engineer",
 });
 
 import { gsap } from 'gsap';

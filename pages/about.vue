@@ -6,7 +6,7 @@ import Footer from "~/layouts/Footer.vue";
 import Header from "~/layouts/Header.vue";
 
 useHead({
-  title: "About Wize - Creative Personal Portfolio Nuxt js Template",
+  title: "Abdul Gofur | Web Development Manager & Software Engineer",
 });
 
 
