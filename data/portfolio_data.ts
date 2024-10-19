@@ -17,14 +17,14 @@ const portfolio_data = [
     id: 2,
     col: 6,
     img: portfolio_img_2,
-    category: "Video",
+    category: "Website",
     title: "Orange Rose Flower",
   },
   {
     id: 3,
     col: 4,
     img: portfolio_img_3,
-    category: "Branding",
+    category: "Loyalty Program",
     title: "Green Plant on a Desk",
   },
   {
@@ -38,7 +38,7 @@ const portfolio_data = [
     id: 5,
     col: 4,
     img: portfolio_img_5,
-    category: "Game",
+    category: "Gamification",
     title: "Mobile Application Design",
   } 
 ];

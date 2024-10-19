@@ -20,7 +20,7 @@
                 websites.
               </h2>
               <p>
-                Hello! {{"I’m"}} Abdul, a self-taught and award-winning Digital Designer & Developer with over fifteen years of experience. 
+                Hello! {{"I’m"}} Abdul, a self-taught Digital Tech Enthusiast & Developer with over 10 years of experience. 
                 Now serving as a Web Development Manager, I lead teams in creating innovative web solutions, 
                 leveraging my extensive background to enhance collaboration and drive projects that align with business goals.
               </p>
