@@ -25,7 +25,7 @@
               with 10+ years of experience focusing on Web development and Software development.
             </h2>
             <div class="hero-btns">
-              <NuxtLink to="/contact" class="theme-btn"
+              <NuxtLink to="/contact" class="theme-btn" @click="trackEvent"
                 >Download CV
                 <i class="ri-download-line"></i>
               </NuxtLink>
@@ -38,3 +38,16 @@
   </section>
 </template>
 
+<script setup>
+import { useGtag } from 'vue-gtag-next'
+
+const { event } = useGtag()
+
+function trackEvent() {
+  event('button_click', {
+    event_category: 'interaction',
+    event_label: 'Download CV',
+    value: 1,
+  })
+}
+</script>

@@ -14,7 +14,7 @@
               design and deliver exceptional work.
             </p>
             <div class="hero-btns">
-              <NuxtLink to="/contact" class="theme-btn call-to-action-button"
+              <NuxtLink to="/contact" class="theme-btn call-to-action-button" @click="trackEvent"
                 >{{"Let's"}} Talk <i class="ri-download-line"></i
               ></NuxtLink>
             </div>
@@ -26,3 +26,16 @@
   </section>
 </template>
  
+<script setup>
+import { useGtag } from 'vue-gtag-next'
+
+const { event } = useGtag()
+
+function trackEvent() {
+  event('button_click', {
+    event_category: 'interaction',
+    event_label: 'Lets Talk',
+    value: 1,
+  })
+}
+</script>

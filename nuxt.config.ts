@@ -11,6 +11,9 @@ export default defineNuxtConfig({
     "@/assets/css/style.css",
     "@/assets/css/responsive.css",
   ],
+  plugins: [
+    '~/plugins/gtag.client.js', // Include your GA plugin
+  ],
 
   compatibilityDate: "2024-10-01",
   
